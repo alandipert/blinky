@@ -1,1 +1,4 @@
 Blink the LED on pin 13 on an Arduino NG
+
+You'll need to install the avr-gcc stuff.  Based loosely on the tutorial found here:
+http://mlab.taik.fi/paja/?p=335
